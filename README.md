@@ -1,0 +1,1 @@
+# detected-face-to-dynamodb
